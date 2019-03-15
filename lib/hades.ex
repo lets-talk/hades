@@ -1,0 +1,3 @@
+defmodule Hades do
+
+end
